@@ -22,7 +22,7 @@ else:
 print("\n")
 
 q_1="El Derecho Constitucional es una rama que estudia..."
-print(q_1.center(50,"/"))
+print(q_1.center(70,"/"))
 print("a. La administración pública.")
 print("b. Principios, Conceptos y Leyes.")
 print("c. Las relaciones jurídicas entre individuos.")
@@ -97,7 +97,7 @@ else:
 print("\n")
 
 q_6="¿Qué constituciones son aquellas donde la propiedad fundamental de los medios de producción está en manos del gobierno?"
-print(q_6.center(100, "/"))
+print(q_6.center(150, "/"))
 print("a. Capitalistas.")
 print("b. Mixtas.")
 print("c. Socialistas.")
@@ -157,7 +157,7 @@ else:
 print("\n")
 
 q_10="¿Qué limitaciones impone la Constitución a los niveles de gobierno?"
-print(q_10.center(60,"/"))
+print(q_10.center(100,"/"))
 print("a. No pueden celebrar alianzas con otros estados o potencias extranjeras.")
 print("b. No pueden acuñar moneda o emitir papel moneda.")
 print("c. No pueden gravar el tránsito o las mercancías que atraviesen su territorio.")
@@ -189,7 +189,7 @@ else:
 print("\n")
 
 q_12="¿Cómo se divide el Congreso general según el Artículo 50?"
-print(q_12.center(60,"/"))
+print(q_12.center(61,"/"))
 print("a. En tres Cámaras.")
 print("b. En dos Cámaras, una de diputados y otra de senadores.")
 print("c. En una Cámara de diputados.")
@@ -221,7 +221,7 @@ else:
 print("\n")
 
 q_14="¿En quién recae el ejercicio del Supremo Poder Ejecutivo de la Unión según el Artículo 80?"
-print(q_14.center(60,"/"))
+print(q_14.center(110,"/"))
 print("a. En el Congreso.")
 print("b. En los diputados.")
 print("c. En los senadores.")
@@ -253,7 +253,7 @@ else:
 print("\n")
 
 q_16="'La República Mexicana es definida como una república representativa, democrática, laica y federal.'"
-print(q_16.center(60,"/"))
+print(q_16.center(110,"/"))
 print("a. Artículo 39.")
 print("b. Artículo 40.")
 print("c. Artículo 38.")
@@ -283,7 +283,7 @@ else:
 print("\n")
 
 q_18="¿Cuáles son las 3 formas de gobierno en México?"
-print(q_18.center(50,"/"))
+print(q_18.center(55,"/"))
 print("a. Estatal, Federal, Municipal.")
 print("b. Centralista, Izquierdista, Socialismo.")
 print("c. Neoliberalismo, Capitalismo, Independiente.")
