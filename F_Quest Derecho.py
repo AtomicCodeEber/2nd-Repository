@@ -5,6 +5,10 @@ inicio="Bienvenido al cuestionario sobre el 'Derecho Constitucional'"
 print(inicio.center(66,"="))
 print("\n")
 
+nombre=input("Ingresa tu nombre: ")
+print(f"Bienvenid@, {nombre}, este cuestionario es una forma de medir tus conocimientos actuales. Si respondes correctamente 13 o más preguntas, ganarás un dulce")
+print("\n")
+
 q_0="¿Qué es el derecho?"
 print(q_0.center(26,"/"))
 print("a. Ciencia social que estudia las normas que regulan a la sociedad.")
@@ -302,5 +306,5 @@ puntaje_total = sum(respuestas)
 
 if puntaje_total >= 13:
     print(f"Felicidades, tu puntaje fue de {puntaje_total}, te ganaste un dulce a elegir.")
-elif puntaje_total <= 10:
-    print("Desafortunadamente reprobaste, tendrás que repasar el tema.")
+elif puntaje_total < 13:
+    print(f"Lo siento, {nombre}, ddsafortunadamente reprobaste, tu puntaje fue de {puntaje_total}, tendrás que repasar el tema.")
